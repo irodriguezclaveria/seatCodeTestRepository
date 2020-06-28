@@ -12,9 +12,6 @@ import javax.persistence.ManyToOne;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
-//poner el paquete de entity y los servicios en el mismo dominio??
-
-
 @Entity
 @Table(name = "MOWER")
 public class Mower
